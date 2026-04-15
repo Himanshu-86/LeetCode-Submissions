@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu-86/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Himanshu-86/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Himanshu-86/LeetCode/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu-86/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
