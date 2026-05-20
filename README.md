@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Himanshu-86/LeetCode/tree/master/0133-clone-graph) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Himanshu-86/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Himanshu-86/LeetCode/tree/master/0133-clone-graph) |
+## String
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/Himanshu-86/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
