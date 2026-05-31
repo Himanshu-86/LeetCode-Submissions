@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Himanshu-86/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu-86/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-86/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1539-kth-missing-positive-number](https://github.com/Himanshu-86/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Himanshu-86/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Himanshu-86/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-86/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Queue
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/Himanshu-86/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Himanshu-86/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
