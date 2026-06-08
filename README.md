@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Himanshu-86/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Himanshu-86/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Himanshu-86/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Himanshu-86/LeetCode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Himanshu-86/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Himanshu-86/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Himanshu-86/LeetCode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Himanshu-86/LeetCode/tree/master/0043-multiply-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Himanshu-86/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshu-86/LeetCode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Himanshu-86/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
