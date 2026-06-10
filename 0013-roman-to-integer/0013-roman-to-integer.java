@@ -1,19 +1,18 @@
 class Solution {
     public int romanToInt(String s) {
-        int ans = 0;
+        int result = 0;
         for (int i = 0; i < s.length(); i++) {
             int curr = value(s.charAt(i));
-            if (i + 1 < s.length() &&
-                curr < value(s.charAt(i + 1))) {
-                ans -= curr;
+            if (i < s.length() - 1 && curr < value(s.charAt(i + 1))) {
+                result -= curr;
             } else {
-                ans += curr;
+                result += curr;
             }
         }
-        return ans;
+        return result;
     }
-    private int value(char ch) {
-        switch (ch) {
+    private int value(char c) {
+        switch (c) {
             case 'I': return 1;
             case 'V': return 5;
             case 'X': return 10;
@@ -21,7 +20,7 @@ class Solution {
             case 'C': return 100;
             case 'D': return 500;
             case 'M': return 1000;
+            default: return 0;
         }
-        return 0;
     }
 }
