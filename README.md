@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Himanshu-86/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Himanshu-86/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Himanshu-86/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Himanshu-86/LeetCode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-86/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1539-kth-missing-positive-number](https://github.com/Himanshu-86/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2762-continuous-subarrays](https://github.com/Himanshu-86/LeetCode/tree/master/2762-continuous-subarrays) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshu-86/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Himanshu-86/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Himanshu-86/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Himanshu-86/LeetCode/tree/master/0338-counting-bits) |
 ## Memoization
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Himanshu-86/LeetCode/tree/master/0043-multiply-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Himanshu-86/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
