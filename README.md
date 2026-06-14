@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Himanshu-86/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Himanshu-86/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Himanshu-86/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Himanshu-86/LeetCode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/Himanshu-86/LeetCode/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Himanshu-86/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Himanshu-86/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Himanshu-86/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Himanshu-86/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Himanshu-86/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sorting
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Himanshu-86/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [3838-weighted-word-mapping](https://github.com/Himanshu-86/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
