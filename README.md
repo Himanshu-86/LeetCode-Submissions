@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Himanshu-86/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Himanshu-86/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-86/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Himanshu-86/LeetCode/tree/master/0125-valid-palindrome) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Himanshu-86/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Queue
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Himanshu-86/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Himanshu-86/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Himanshu-86/LeetCode/tree/master/0125-valid-palindrome) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Himanshu-86/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Himanshu-86/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Himanshu-86/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
