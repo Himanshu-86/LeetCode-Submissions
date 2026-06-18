@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-86/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1539-kth-missing-positive-number](https://github.com/Himanshu-86/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2762-continuous-subarrays](https://github.com/Himanshu-86/LeetCode/tree/master/2762-continuous-subarrays) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Himanshu-86/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3838-weighted-word-mapping](https://github.com/Himanshu-86/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/Himanshu-86/LeetCode/tree/master/0338-counting-bits) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Himanshu-86/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
 | ------- |
