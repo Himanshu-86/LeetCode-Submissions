@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Himanshu-86/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-86/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1539-kth-missing-positive-number](https://github.com/Himanshu-86/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/Himanshu-86/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2762-continuous-subarrays](https://github.com/Himanshu-86/LeetCode/tree/master/2762-continuous-subarrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Himanshu-86/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3838-weighted-word-mapping](https://github.com/Himanshu-86/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Himanshu-86/LeetCode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Himanshu-86/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
