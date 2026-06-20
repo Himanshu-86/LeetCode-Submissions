@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Himanshu-86/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Himanshu-86/LeetCode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Himanshu-86/LeetCode/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Himanshu-86/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Himanshu-86/LeetCode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Himanshu-86/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Himanshu-86/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Himanshu-86/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Himanshu-86/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
