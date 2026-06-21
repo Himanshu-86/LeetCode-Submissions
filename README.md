@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Himanshu-86/LeetCode/tree/master/0169-majority-element) |
 | [1539-kth-missing-positive-number](https://github.com/Himanshu-86/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Himanshu-86/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2762-continuous-subarrays](https://github.com/Himanshu-86/LeetCode/tree/master/2762-continuous-subarrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Himanshu-86/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3838-weighted-word-mapping](https://github.com/Himanshu-86/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -152,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Himanshu-86/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Himanshu-86/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Himanshu-86/LeetCode/tree/master/0169-majority-element) |
+| [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Himanshu-86/LeetCode/tree/master/0011-container-with-most-water) |
+| [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Himanshu-86/LeetCode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
