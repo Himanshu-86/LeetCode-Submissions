@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Himanshu-86/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-86/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Himanshu-86/LeetCode/tree/master/0338-counting-bits) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Himanshu-86/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Himanshu-86/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Himanshu-86/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Counting
 |  |
 | ------- |
