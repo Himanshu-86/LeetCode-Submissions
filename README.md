@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Himanshu-86/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Himanshu-86/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Himanshu-86/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Himanshu-86/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Himanshu-86/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Himanshu-86/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-86/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Himanshu-86/LeetCode/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/Himanshu-86/LeetCode/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Himanshu-86/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Himanshu-86/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Himanshu-86/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Himanshu-86/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Himanshu-86/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Himanshu-86/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Himanshu-86/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Himanshu-86/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Himanshu-86/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Himanshu-86/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Himanshu-86/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
