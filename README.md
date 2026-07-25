@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Himanshu-86/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Himanshu-86/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [3536-maximum-product-of-two-digits](https://github.com/Himanshu-86/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Himanshu-86/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Himanshu-86/LeetCode/tree/master/0169-majority-element) |
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3536-maximum-product-of-two-digits](https://github.com/Himanshu-86/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
