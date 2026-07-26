@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Himanshu-86/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-86/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Himanshu-86/LeetCode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Himanshu-86/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/Himanshu-86/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Himanshu-86/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Himanshu-86/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Himanshu-86/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Himanshu-86/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshu-86/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Himanshu-86/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Himanshu-86/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Himanshu-86/LeetCode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Himanshu-86/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/Himanshu-86/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
