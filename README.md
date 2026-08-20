@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu-86/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Himanshu-86/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Himanshu-86/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshu-86/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Himanshu-86/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Himanshu-86/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Himanshu-86/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Himanshu-86/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Himanshu-86/LeetCode/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Himanshu-86/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Himanshu-86/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Himanshu-86/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Himanshu-86/LeetCode/tree/master/3838-weighted-word-mapping) |
