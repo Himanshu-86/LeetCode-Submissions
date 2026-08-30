@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/Himanshu-86/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Himanshu-86/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshu-86/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2762-continuous-subarrays](https://github.com/Himanshu-86/LeetCode/tree/master/2762-continuous-subarrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Himanshu-86/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Himanshu-86/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Himanshu-86/LeetCode/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshu-86/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/Himanshu-86/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Himanshu-86/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Himanshu-86/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Himanshu-86/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
