@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-86/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Himanshu-86/LeetCode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshu-86/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Himanshu-86/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Himanshu-86/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Himanshu-86/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Himanshu-86/LeetCode/tree/master/1406-stone-game-iii) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Himanshu-86/LeetCode/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/Himanshu-86/LeetCode/tree/master/0835-image-overlap) |
 ## Enumeration
 |  |
 | ------- |
